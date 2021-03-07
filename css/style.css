@@ -1,10 +1,16 @@
-div {
+article {
+   display: block;
    width: 500px;
    margin: 0 auto;
 }
 li { 
    font-size: 20px; 
    color: #069;
-   margin: 0 0px 0px 100px;
+   margin: 0 0px 0px 80px;
 }
 img { float: left; }
+h1, h2{
+   font-size: 22px;
+   padding: 0;
+   margin: 0;
+}
