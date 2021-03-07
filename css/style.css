@@ -1,1 +1,10 @@
-
+div {
+   width: 500px;
+   margin: 0 auto;
+}
+li { 
+   font-size: 20px; 
+   color: #069;
+   margin: 0 0px 0px 100px;
+}
+img { float: left; }
