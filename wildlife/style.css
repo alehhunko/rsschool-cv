@@ -74,6 +74,18 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 .logo, .navi, .articles_slider, input[type=submit],button:hover{
     cursor:pointer;
 }
+.navi li:hover{
+    transform: scale(1.1);
+    transition: 0.25s;
+}
+.survival button:hover{
+    transform: scale(1.1);
+    transition: 0.25s;
+}
+.articles_slider img:hover{
+    transform: scale(1.1);
+    transition: 0.25s;
+}
 .survival h2{
     font-family: 'Open Sans';
     color:#CD6326;
